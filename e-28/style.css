@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.fab {
+	font-size: 32px;
+}
+.position {
+	font-size: 32px;
+	position: absolute;
+	right: 40px;
+	top: 100px;
+	display: inlhttps://use.fontawesome.com/releases/v5.0.13/css/all;
+}
